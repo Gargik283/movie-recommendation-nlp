@@ -48,7 +48,7 @@ Movie-Recommendation-System/
 ## ▶️ Run Locally
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <[YOUR_GITHUB_REPOSITORY_URL](https://github.com/Gargik283/movie-recommendation-nlp)>
 cd Movie-Recommendation-System
 pip install -r requirements.txt
 streamlit run app.py
